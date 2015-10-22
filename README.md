@@ -1,5 +1,3 @@
-# Library-Everyday-Gitbook
-
 List of Android  Libraries I browsed EveryDay.
 ==================
 ![Project status](http://stillmaintained.com/wasabeef/awesome-android-libraries.png)[![API](https://img.shields.io/badge/API-8%2B-green.svg?style=flat)](https://developer.android.com/about/versions/android-2.2.html) [![sabria](https://img.shields.io/badge/Sabria%20Blog-September--9月-green.svg?style=flat)](http://www.sabria.me/2015/09/16/15September/) 
