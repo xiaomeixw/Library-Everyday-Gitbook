@@ -29,6 +29,7 @@ Contains the following content：
 ## Index `(quick look)`
 * [2015/10/22 day1](#ANDROIDEVERYDAY2)
 * [2015/10/23 day2](#ANDROIDEVERYDAY #1)
+* [2015/10/24 day3](#day4)
 * [JSON](#json)
 
 ----------------
@@ -249,3 +250,7 @@ Name | Repository | License
 [ig-json-parser](https://github.com/Instagram/ig-json-parser) | https://github.com/Instagram/ig-json-parser | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)
 [Jackson](http://jackson.codehaus.org/) | https://github.com/FasterXML/jackson | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
+## day4 
+sdfsdfsdfffffffffffffffffffff
+sdfdfsdf
+sdfdfdfdfdfdfdfdfdfdf
