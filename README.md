@@ -118,11 +118,11 @@ Base is a lightweight library that gives you a clean architecture foundation for
  
 	English translation Address : Have No One translated it At the moment  (If You are interested In this article，please translate it to English).
 	
-	![](http://i.imgur.com/5w4I6L2.png)![](http://i.imgur.com/pT0wz88.png)
+	![](http://i.imgur.com/5w4I6L2.png)
 
 
 #### website 	
 
 - _[http://gank.io/](http://gank.io/) --- (Build By [daimajia](https://github.com/daimajia)) :To start a serious writing For Android developer [NCV：重新开始一次认真的写作]._
 
-	![](http://i.imgur.com/c69XTPO.png)![](http://i.imgur.com/zIjBaj1.png)
+	![](http://i.imgur.com/c69XTPO.png)
