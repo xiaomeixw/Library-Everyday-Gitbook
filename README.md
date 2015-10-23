@@ -27,12 +27,12 @@ Contains the following content：
 [![xiaomeixw](http://i.imgur.com/trenQOC.png) ***xiaomeixw***](https://github.com/xiaomeixw) 
 
 ## Index `(quick look)`
-* [2015/10/22 day1](#ANDROIDEVERYDAY #2)
+* [2015/10/22 day1](#ANDROIDEVERYDAY2)
 * [2015/10/23 day2](#ANDROIDEVERYDAY #1)
 
 ----------------
 <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> <img src="http://i.imgur.com/DJgzbkd.gif" width="32%">  <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> 
-## ANDROIDEVERYDAY #2 
+## ANDROIDEVERYDAY2 
 > ![](https://img.shields.io/badge/AndroidEvery-Day2-green.svg?style=flat)   
 > ***Time : October 23th,2015*** / ***Author : [xiaomeixw](https://github.com/xiaomeixw)***
 
@@ -132,11 +132,7 @@ A Model-View-Presenter library for modern Android apps. [一个Android的MVP架�
 	![](http://i.imgur.com/2vFzulA.jpg)
 
 
-
-
-
-
-
+	![](https://img.shields.io/badge/The%20Day2-End%20!-ED1C24.svg?style=flat)
 
 
 
@@ -242,3 +238,5 @@ Base is a lightweight library that gives you a clean architecture foundation for
 - _[http://gank.io/](http://gank.io/) --- (Build By [daimajia](https://github.com/daimajia)) :To start a serious writing For Android developer [NCV：重新开始一次认真的写作]._
 
 	![](http://i.imgur.com/c69XTPO.png)
+
+	![](https://img.shields.io/badge/The%20Day1-End%20!-ED1C24.svg?style=flat)
