@@ -115,7 +115,7 @@ A Model-View-Presenter library for modern Android apps. [一个Android的MVP架�
  
 	Chinese Translation Address : [Thanks To android-tech-frontier](http://www.devtf.cn/?p=551)
 	
-	![](http://i.imgur.com/QZGh6Mg.png)![](http://i.imgur.com/oKACOrE.png)
+	![](http://i.imgur.com/Zg8e2Wq.png)![](http://i.imgur.com/P2ZgWY4.png)
 
 	![](http://i.imgur.com/2m5zDIH.png)
 
