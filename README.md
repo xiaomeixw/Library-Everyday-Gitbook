@@ -67,10 +67,8 @@ Smash is Volley inspired networking library that's using OkHttp in its core [结
 
 - _[ThinDownloadManager](https://github.com/smanikandan14/ThinDownloadManager) --- (From [smanikandan14](https://github.com/smanikandan14) & Tag  is [Networking](https://github.com/smanikandan14)) : 
 Thin DownloadManager is an android library primary to download files and to avoid using DOWNLOAD_WITHOUT_NOTIFICATION permission when using Android provided DownloadManager in your application. [一个类volley架构思想的下载框架,无需 DownloadManager permission]._
-
-	![](http://i.imgur.com/bNdvOxj.png)
-
-
+	
+	![](http://i.imgur.com/2PdsasQ.png)
 
 
 3.Architecture:
