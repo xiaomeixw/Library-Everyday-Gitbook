@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Weekly#01](weekly01.md)
-   * Day01
+   * [Day01](DAY01.md)
 
