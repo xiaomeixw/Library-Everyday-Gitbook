@@ -33,7 +33,7 @@ Contains the following content：
 ----------------
 <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> <img src="http://i.imgur.com/DJgzbkd.gif" width="32%">  <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> 
 ## Day2 
-> ![](https://img.shields.io/badge/AndroidEvery-Day2-green.svg?style=flat)   
+> ![](https://img.shields.io/badge/AndroidEveryday-Day2-green.svg?style=flat)   
 > ***Time : October 23th,2015*** / ***Author : [xiaomeixw](https://github.com/xiaomeixw)***
 
 #### library ####
@@ -144,7 +144,7 @@ A Model-View-Presenter library for modern Android apps. [一个Android的MVP架�
 ----------------
 <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> <img src="http://i.imgur.com/DJgzbkd.gif" width="32%">  <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> 
 ## Day1 
-> ![](https://img.shields.io/badge/AndroidEvery-Day1-green.svg?style=flat)   
+> ![](https://img.shields.io/badge/AndroidEveryday-Day1-green.svg?style=flat)   
 > ***Time : October 22th,2015*** / ***Author : [xiaomeixw](https://github.com/xiaomeixw)***
 
 #### library ####
