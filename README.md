@@ -29,6 +29,7 @@ Contains the following content：
 ## Index `(quick look)`
 * [2015/10/22 day1](#day1)
 * [2015/10/23 day2](#day2)
+* [2015/10/24 day3](#day3)
 
 ----------------
 <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> <img src="http://i.imgur.com/DJgzbkd.gif" width="32%">  <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> 
@@ -72,7 +73,7 @@ A tiny window overlay to log app internal on top of your android app. [做一个
 
 2.Logic：
 
-- _[android-asyncservice](https://github.com/JoanZapata/android-asyncservice) --- (From [JoanZapata](https://github.com/JoanZapata) & Tag  is [AsyncTask](https://github.com/appformation/smash)) : 
+- _[android-asyncservice](https://github.com/JoanZapata/android-asyncservice) --- (From [JoanZapata](https://github.com/JoanZapata) & Tag  is [AsyncTask](https://github.com/JoanZapata/android-asyncservice)) : 
 AsyncService uses annotations to shorten the code needed to start asynchronous long running tasks and return result. [使用注解@AsyncService & @OnMessage来完成异步请求]._
 
 	![](https://raw.githubusercontent.com/JoanZapata/android-asyncservice/master/logo.png)
@@ -127,7 +128,7 @@ A Model-View-Presenter library for modern Android apps. [一个Android的MVP架�
 
 #### website	
 
-- _[http://stackoverflow.com](http://stackoverflow.com/) --- (Build By [Jeff Atwood & Joel Spolsky ,2008](https://github.com/daimajia)) :Stack Overflow is a question and answer site for professional and enthusiast programmers. [程序猿BUG的维基百科Wiki]._
+- _[http://stackoverflow.com](http://stackoverflow.com/) --- (Build By [Jeff Atwood & Joel Spolsky ,2008](http://stackoverflow.com/)) :Stack Overflow is a question and answer site for professional and enthusiast programmers. [程序猿BUG的维基百科Wiki]._
 
 	![](http://i.imgur.com/2vFzulA.jpg)
 
@@ -206,9 +207,9 @@ Base is a lightweight library that gives you a clean architecture foundation for
 
 - _[When the Avengers meet Dagger2, RxJava and Retrofit in a clean way](http://saulmm.github.io/when-Thor-and-Hulk-meet-dagger2-rxjava-1/) --- (From Author  [saulmm](https://github.com/saulmm) blog [http://saulmm.github.io](https://github.com/saulmm)) --- [Source in [Github](https://github.com/saulmm/Avengers)]_ 
 
-	Today, if you are an Android developer and don't recognize the words Dagger 2, RxJava or Retrofit, you are missing something, this series will put some focus on giving the basic ideas of how to use these frameworks together with a Clean Architecture perspective. [NCV：当复仇者联盟遇上Dagger2、RxJava和Retrofit的巧妙结合]. 
+	Today, if you are an Android developer and don't recognize the words Dagger 2, RxJava or Retrofit, you are missing something, this series will put some focus on giving the basic ideas of how to use these frameworks together with a Clean Architecture perspective. [Translation：当复仇者联盟遇上Dagger2、RxJava和Retrofit的巧妙结合]. 
  
-	Chinese Translation Address : [Thanks To 开发技术前线](http://www.devtf.cn/?p=565)
+	Chinese Translation Address : [Thanks To android-tech-frontier](http://www.devtf.cn/?p=565)
 	
 	![](http://i.imgur.com/QWvjQuq.png)![](http://i.imgur.com/8xZuRgm.png)
 
@@ -224,7 +225,7 @@ Base is a lightweight library that gives you a clean architecture foundation for
 
 	This part focuses on the understanding of what are the Reactive Extensions, its Java implementation, and use RxJava operators, all it integrated with a clean architecture 
 
-- _[Introduce RxJava To Android developer](http://gank.io/post/560e15be2dca930e00da1083) --- (From Author  [rengwuxian](https://github.com/rengwuxian) blog [http://gank.io/](http://gank.io/)) --- [No Source & NCV： 给 Android 开发者的 RxJava 详解]_ 
+- _[Introduce RxJava To Android developer](http://gank.io/post/560e15be2dca930e00da1083) --- (From Author  [rengwuxian](https://github.com/rengwuxian) blog [http://gank.io/](http://gank.io/)) --- [No Source & Translation： 给 Android 开发者的 RxJava 详解]_ 
 
 	我从去年开始使用 RxJava ，到现在一年多了。今年加入了 Flipboard 后，看到 Flipboard 的 Android 项目也在使用 RxJava ，并且使用的场景越来越多 。而最近这几个月，我也发现国内越来越多的人开始提及 RxJava 。有人说『RxJava 真是太好用了』，有人说『RxJava 真是太难用了』，另外更多的人表示：我真的百度了也谷歌了，但我还是想问： RxJava 到底是什么？. 
  
@@ -235,9 +236,131 @@ Base is a lightweight library that gives you a clean architecture foundation for
 
 #### website 	
 
-- _[http://gank.io/](http://gank.io/) --- (Build By [daimajia](https://github.com/daimajia)) :To start a serious writing For Android developer [NCV：重新开始一次认真的写作]._
+- _[http://gank.io/](http://gank.io/) --- (Build By [daimajia](https://github.com/daimajia)) :To start a serious writing For Android developer [重新开始一次认真的写作]._
 
 	![](http://i.imgur.com/c69XTPO.png)
 
 	![](https://img.shields.io/badge/The%20Day1-End%20!-ED1C24.svg?style=flat)
+
+----------------
+<img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> <img src="http://i.imgur.com/DJgzbkd.gif" width="32%">  <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> 
+
+## Day3
+> ![](https://img.shields.io/badge/AndroidEveryday-Day3-green.svg?style=flat)   
+> ***Time : October 24th,2015*** / ***Author : [xiaomeixw](https://github.com/xiaomeixw)***
+
+#### library ####
+
+1.UI:
+
+- _[TextSurface](https://github.com/elevenetc/TextSurface) --- (From [elevenetc](https://github.com/elevenetc)) : 
+A little animation framework which could help you to show message in a nice looking way. [让TextView动画飞起来]._
+
+    ![](https://github.com/elevenetc/TextSurface/raw/master/docs/demo.gif)
+
+- _[DraggableView](https://github.com/elevenetc/DraggableView) --- (From [elevenetc](https://github.com/elevenetc)) : 
+Draggable views with rotation and skew/scale effects. [带动画效果拖拽View条目]._
+
+    ![](https://github.com/elevenetc/DraggableView/raw/master/docs/skewview.gif)
+
+- _[BadgeView](https://github.com/elevenetc/BadgeView) --- (From [elevenetc](https://github.com/elevenetc)) : 
+Badge view with animated effect which shows a bitmap or a text. [带动画效果的在徽章中显示图片或者文字]._
+
+    ![](https://github.com/elevenetc/BadgeView/raw/master/docs/badgeview-spongebob.gif)
+
+- _[BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) --- (From [bingoogolapple](https://github.com/bingoogolapple)) : 
+Android badge view copy from the china "twitter" : sina weibo. [模仿新浪微博的Android徽章控件]._
+
+    ![](https://camo.githubusercontent.com/520ae13b5197a4d1fa94642794eeb6d427bce1c3/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f62616467652f73637265656e73686f74732f62616467652e676966)
+
+- _[android-viewbadger](https://github.com/jgilfelt/android-viewbadger) --- (From [jgilfelt](https://github.com/jgilfelt)) : 
+A simple way to "badge" any given Android view at runtime without having to cater for it in layout. [徽章View]._
+
+    ![](https://camo.githubusercontent.com/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67)
+
+- _[BadgeView](https://github.com/elevenetc/BadgeView) --- (From [stefanjauker](https://github.com/stefanjauker/BadgeView)) : 
+An extended TextView that mimics the iOS Springboard 'badges'. It can be overlaid on any other item. [徽章View]._
+
+	![](http://i.imgur.com/ayCgRjB.png)
+
+
+2.Logic：
+
+- _[AsyncManager](https://github.com/boxme/AsyncManager) --- (From [boxme](https://github.com/boxme) & Tag  is [AsyncTask](https://github.com/boxme/AsyncManager)) : 
+Android Multithreading Library For Easy Asynchronous Management. [后台异步线程]._
+
+
+	![](http://i.imgur.com/0tubENV.png)
+
+		// A BackgroundTask object will be returned from this method. Reference it if require.
+		AsyncManager.runBackgroundTask(new TaskRunnable<Params, Result, Void>() {
+		    @Override
+		    public Result doLongOperation(Params params) throws InterruptedException {
+		        // checkForThreadInterruption();
+		        // Your long operation
+		        return result;
+		    }
+		
+		    // Override this callback if you need to handle the result on the UI thread
+		    @Override
+		    public void callback(Result result) {
+		        // Handle the result from doLongOperation()
+		    }
+		}.setParams(params));	
+
+3.Architecture:
+
+- _[MvpCleanArchitecture](https://github.com/glomadrian/MvpCleanArchitecture) --- (From [glomadrian](https://github.com/glomadrian)) : 
+A sample project using Clean architecture and MVP in Android. [探索MVP架构]._
+
+	![](https://github.com/glomadrian/MvpCleanArchitecture/raw/master/img/screenshot_1.png)
+
+
+- _[androidmvp](https://github.com/antoniolg/androidmvp) --- (From [antoniolg](https://github.com/antoniolg)) : 
+MVP Android Example used to explain how to use this pattern in our Android apps. [MVP架构的一个Simple范例]._
+
+	![](http://i.imgur.com/DsX7bsb.png)
+
+- _[UpcomingMoviesMVP](https://github.com/jlmd/UpcomingMoviesMVP) --- (From [jlmd](https://github.com/jlmd)) : 
+Sample project of MVP and Material Design using as repository a list of upcoming movies. [MVP架构 & Material Design的一个电影Simple范例]._
+
+	![](https://github.com/jlmd/UpcomingMoviesMVP/raw/master/art/screenshot1.png)
+
+- _![](http://i.imgur.com/TRBV7jp.jpg) [FastAndroid](https://github.com/huntermr/FastAndroid) --- (From [huntermr](https://github.com/huntermr)) : 
+A Rapid development framework With MVP & some famous libraries . [融入了MVP模式,集成了多个开源项目后,进行整合形成的Android快速开发框架]._
+
+	![](http://i.imgur.com/Z2wSnv2.png)
+
+#### article ####
+
+- _[cA small leak will sink a great ship](https://corner.squareup.com/2015/08/a-small-leak.html) --- (From Author  [Piwai](https://github.com/pyricau) blog [http://www.piwai.info/](http://www.piwai.info/)) --- [No Source]_ 
+
+	This post started as an internal email thread when I was building LeakCanary. I found a strange memory leak and started digging in order to figure out what was happening.
+	TL;DR: Prior to Android Lollipop, alert dialogs may cause memory leaks in your Android apps. [Translation：Square工程师 : 一个内存泄漏引发的悲惨结果]. 
+ 
+	Chinese Translation Address : [Thanks To android-tech-frontier](http://www.devtf.cn/?p=1065)
+
+	![](http://i.imgur.com/AHA60WS.png)![](http://i.imgur.com/WpHtwuM.png)
+
+	A super cool man in Android , This is his resume website : [http://www.piwai.info/cv.html#/welcome](http://www.piwai.info/cv.html#/welcome)
+
+
+#### website 	
+
+- _[https://medium.com/android-news](https://medium.com/android-news) --- (Build By [Evan Williams,2012](https://en.wikipedia.org/wiki/Medium_(publishing_platform))) : Medium is a blog-publishing platform.The platform has evolved into a hybrid of non-professional contributions and professional, paid contributions. [基于主题的协作型媒体Blog文章消费写作平台]._
+
+	![](http://i.imgur.com/wbgsH2m.jpg)
+
+	![](https://img.shields.io/badge/The%20Day3-End%20!-ED1C24.svg?style=flat)
+
+
+
+
+
+
+
+
+
+
+
 
