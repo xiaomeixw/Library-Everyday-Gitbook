@@ -27,8 +27,8 @@ Contains the following content：
 [![xiaomeixw](http://i.imgur.com/trenQOC.png) ***xiaomeixw***](https://github.com/xiaomeixw) 
 
 ## Index `(quick look)`
-* [2015/10/22 day1](#Day1)
-* [2015/10/23 day2](#Day2)
+* [2015/10/22 day1](#day1)
+* [2015/10/23 day2](#day2)
 
 ----------------
 <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> <img src="http://i.imgur.com/DJgzbkd.gif" width="32%">  <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> 
