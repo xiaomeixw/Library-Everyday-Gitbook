@@ -27,14 +27,14 @@ Contains the following content：
 [![xiaomeixw](http://i.imgur.com/trenQOC.png) ***xiaomeixw***](https://github.com/xiaomeixw) 
 
 ## Index `(quick look)`
-* [2015/10/22 day1](#ANDROIDEVERYDAY2)
+* [2015/10/22 day1](#AndroidEveryday2)
 * [2015/10/23 day2](#ANDROIDEVERYDAY #1)
 * [2015/10/24 day3](#day4)
 * [JSON](#json)
 
 ----------------
 <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> <img src="http://i.imgur.com/DJgzbkd.gif" width="32%">  <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> 
-## ANDROIDEVERYDAY2 
+## AndroidEveryday2 
 > ![](https://img.shields.io/badge/AndroidEvery-Day2-green.svg?style=flat)   
 > ***Time : October 23th,2015*** / ***Author : [xiaomeixw](https://github.com/xiaomeixw)***
 
