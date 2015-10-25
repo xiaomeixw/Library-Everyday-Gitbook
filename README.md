@@ -191,6 +191,7 @@ A preferences-backed key-value store. [tumblr出品的key-value存储,必属精�
 - _[android-easy-cache](https://github.com/vincentbrison/android-easy-cache) --- (From [vincentbrison](https://github.com/vincentbrison) & Tag  is [Caching](https://github.com/vincentbrison/android-easy-cache)) : 
 This android library provide a cache with 2 layers, one in RAM in top of one disk. [两层缓存，一层是内存RAM一层是磁盘Disk]._
 
+	![](http://i.imgur.com/DfGrhfr.png)
 
 		//A cache with default serializer in RAM and disk disable
 		DualCache<AbstractVehicule> cache = new DualCacheBuilder<AbstractVehicule>(CACHE_NAME, TEST_APP_VERSION, AbstractVehicule.class)
