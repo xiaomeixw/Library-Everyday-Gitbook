@@ -8,7 +8,7 @@ About android library I will Keep update everyday.The Image is upload to github'
 
 ## Other lists
 - _Looking for  Read the gitbook online? Check out_ [https://xiaomeixw.gitbooks.io](https://xiaomeixw.gitbooks.io/library-everyday/content/).
-- _Looking for Give a suggest or Recommend library? Check out_ my gmail：jpxw007@gmail.com.
+- _Looking for Give a suggest or Recommend library? Check out_ my Gmail：jpxw007@gmail.com.
 - _Looking for The Clean Architecture? Check out_ [xiaomeixw/The-Clean-Architecture-Gitbook](https://github.com/xiaomeixw/The-Clean-Architecture-Gitbook).
 - _Looking for My Blog? Check out_ [http://www.sabria.me](http://www.sabria.me/).
 - _Looking for More  libraries? Check out_ [my github's stars](https://github.com/stars/xiaomeixw)
