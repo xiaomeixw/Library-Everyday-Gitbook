@@ -333,7 +333,7 @@ Contributing to the Android community：
 
 ###Open Source
 ======================
-Library | Describe | Demo
+Library | Describe | Usage
 --- | --- | ---
 [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |   <img src="http://i.imgur.com/cr1rogh.png" width="80%">
 [butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android |   <img src="http://i.imgur.com/q0zv62k.png" width="80%">
@@ -348,6 +348,7 @@ Library | Describe | Demo
 [timber](https://github.com/JakeWharton/timber) | A logger with a small, extensible API which provides utility on top of Android's normal Log class |   <img src="http://i.imgur.com/VXsfgMp.png" width="50%">
 [hugo](https://github.com/JakeWharton/hugo) | Annotation-triggered method call logging for your debug builds |   <img src="http://i.imgur.com/QAmRpc8.png" width="50%">
 [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) | Java implementation of a Disk-based LRU cache which specifically targets Android compatibility |   <img src="http://i.imgur.com/QvDlNc1.png" width="80%">
+[u2020](https://github.com/JakeWharton/u2020) | A sample Android app which showcases advanced usage of Dagger among other open source libraries |   <img src="http://i.imgur.com/OtGCMbz.png" width="80%"><img src="https://github.com/JakeWharton/u2020/raw/master/u2020.gif" width="80%">
 
 ###At Last
 
