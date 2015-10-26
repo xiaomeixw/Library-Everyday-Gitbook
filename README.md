@@ -7,9 +7,11 @@ List of Android  Libraries I browsed EveryDay.
 About android library I will Keep update everyday.The Image is upload to github's servers or markdown's servers not qiniu so If your are an Android developer from China，It is well known that The image loading will be very slow ,no hurry please just waiting.
 
 ## Other lists
+- _Looking for  Read the gitbook online? Check out_ [https://xiaomeixw.gitbooks.io/library-everyday/content](https://xiaomeixw.gitbooks.io/library-everyday/content/).
+- _Looking for Give a suggest or Recommend library? Check out_ my email：jpxw007@gmail.com Or jpxw007@sina.com.
 - _Looking for The Clean Architecture? Check out_ [xiaomeixw/The-Clean-Architecture-Gitbook](https://github.com/xiaomeixw/The-Clean-Architecture-Gitbook).
-- _Looking for My Blog? Check out_ [http://www.sabria.me/](http://www.sabria.me/).
-- _Looking for more  libraries? Check out_ [my github's stars](https://github.com/stars/xiaomeixw)
+- _Looking for My Blog? Check out_ [http://www.sabria.me](http://www.sabria.me/).
+- _Looking for More  libraries? Check out_ [my github's stars](https://github.com/stars/xiaomeixw)
 
 ## Tips
 Contains the following content：
