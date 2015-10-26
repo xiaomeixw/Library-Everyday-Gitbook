@@ -338,7 +338,12 @@ Material
 ======================
 Library | Describe | Demo
 --- | --- | ---
-[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |   <img src="http://nineoldandroids.com/screens.png" width="100%">
+[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |  ValueAnimator colorAnim = ObjectAnimator.ofInt(this, "backgroundColor", /*Red*/0xFFFF8080, /*Blue*/0xFF8080FF);
+	colorAnim.setDuration(3000);
+	colorAnim.setEvaluator(new ArgbEvaluator());
+	colorAnim.setRepeatCount(ValueAnimator.INFINITE);
+	colorAnim.setRepeatMode(ValueAnimator.REVERSE);
+	colorAnim.start();
 [RxBinding](https://github.com/JakeWharton/RxBinding) | RxJava binding APIs for Android's UI widgets |   <img src="http://nineoldandroids.com/screens.png" width="100%">
 
 	ValueAnimator colorAnim = ObjectAnimator.ofInt(this, "backgroundColor", /*Red*/0xFFFF8080, /*Blue*/0xFF8080FF);
