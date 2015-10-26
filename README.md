@@ -352,8 +352,14 @@ Library | Describe | Demo | Usage
 [butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android |   <img src="https://github.com/JakeWharton/butterknife/raw/master/website/static/logo.png" width="60%">
 
 
+Material
+======================
+Name | License | Demo
+--- | --- | ---
+[MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/art/MaterialDesignLibrary.png" width="100%"> <img src="/art/MaterialDesignLibrary2.png" width="49%"> <img src="/art/MaterialDesignLibrary3.png" width="49%"> 
 
-	![](https://img.shields.io/badge/The%20Day4-End%20!-ED1C24.svg?style=flat)
+
+![](https://img.shields.io/badge/The%20Day4-End%20!-ED1C24.svg?style=flat)
 
 
 
