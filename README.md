@@ -273,11 +273,6 @@ Android Lollipop Palette is now easy to use with Picasso. [picasso&Android Lçš„é
 
 
 
-## Day4 
-----------------
-<img src="http://i.imgur.com/ww8P36t.jpg" width="32%"> <img src="http://i.imgur.com/tvo7qui.png" width="28%">  <img src="http://i.imgur.com/TzOqpsZ.jpg" width="32%"> 
-
-
 
 ## Day4 
 > ![](https://img.shields.io/badge/AndroidEveryday-Day4-green.svg?style=flat) [![library](https://img.shields.io/badge/Special-Cool-ED1C24.svg?style=flat)](https://github.com/JakeWharton)  [![library](https://img.shields.io/badge/JakeWharton-Square-ff69b4.svg?style=flat)](https://github.com/JakeWharton)
@@ -362,23 +357,6 @@ More public contribution to Android  see [Square](https://github.com/square)
 
 
 ![](https://img.shields.io/badge/The%20Day4-End%20!-ED1C24.svg?style=flat)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
