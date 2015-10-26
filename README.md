@@ -338,7 +338,18 @@ Material
 ======================
 Library | Describe | Demo | API
 --- | --- | --- | ---
-[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |   <img src="http://nineoldandroids.com/screens.png" width="100%"> | mydeom
+[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |   <img src="http://nineoldandroids.com/screens.png" width="100%"> | AnimatorSet set = new AnimatorSet();
+set.playTogether(
+    ObjectAnimator.ofFloat(myView, "rotationX", 0, 360),
+    ObjectAnimator.ofFloat(myView, "rotationY", 0, 180),
+    ObjectAnimator.ofFloat(myView, "rotation", 0, -90),
+    ObjectAnimator.ofFloat(myView, "translationX", 0, 90),
+    ObjectAnimator.ofFloat(myView, "translationY", 0, 90),
+    ObjectAnimator.ofFloat(myView, "scaleX", 1, 1.5f),
+    ObjectAnimator.ofFloat(myView, "scaleY", 1, 0.5f),
+    ObjectAnimator.ofFloat(myView, "alpha", 1, 0.25f, 1)
+);
+set.setDuration(5 * 1000).start();
 
 
 [RxBinding](https://github.com/JakeWharton/RxBinding) | RxJava binding APIs for Android's UI widgets |   <img src="http://nineoldandroids.com/screens.png" width="100%">
