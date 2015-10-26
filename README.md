@@ -31,7 +31,7 @@ Contains the following content：
 * [2015/10/22 day1](#day1)
 * [2015/10/23 day2](#day2)
 * [2015/10/24 day3](#day3)
-* waitting for upload
+* [2015/10/25 day4](#day4)
 * [2015/10/26 day5](#day5)
 
 ----------------
@@ -267,6 +267,98 @@ Android Lollipop Palette is now easy to use with Picasso. [picasso&Android L的�
 	![](http://i.imgur.com/tNG7Efv.png)
 
 	![](https://img.shields.io/badge/The%20Day5-End%20!-ED1C24.svg?style=flat)
+
+----------------
+<img src="http://i.imgur.com/ww8P36t.jpg" width="32%"> <img src="http://i.imgur.com/tvo7qui.png" width="28%">  <img src="http://i.imgur.com/TzOqpsZ.jpg" width="32%"> 
+
+
+
+## Day4 
+> ![](https://img.shields.io/badge/AndroidEveryday-Day4-green.svg?style=flat) [![library](https://img.shields.io/badge/Special-Cool-ED1C24.svg?style=flat)](https://github.com/JakeWharton)  [![library](https://img.shields.io/badge/JakeWharton-Square-ff69b4.svg?style=flat)](https://github.com/JakeWharton)
+> 
+> ***Weekend Special：A man who name is JakeWharton！***
+> 
+> ***Time : October 25th,2015*** / ***Author : [xiaomeixw](https://github.com/xiaomeixw)***
+
+
+###More To Know
+![](http://i.imgur.com/QQIvQNH.png)
+
+
+
+- _Looking for JakeWharton's Github? Check out_ [https://github.com/JakeWharton](https://github.com/JakeWharton).
+- _Looking for JakeWharton's Blog? Check out_ [http://jakewharton.com](http://jakewharton.com/).
+- _Looking for JakeWharton on Twitter? Check out_ [https://twitter.com/JakeWharton](https://twitter.com/JakeWharton).
+- _Looking for JakeWharton on Google+? Check out_ [https://plus.google.com/+JakeWharton](https://plus.google.com/+JakeWharton/posts).
+- _Looking for JakeWharton on YouTuBe? Check out_ [https://www.youtube.com/user/jakewharton](https://www.youtube.com/user/jakewharton).
+
+![](http://i.imgur.com/TiQOUmV.png)
+
+Tagline:
+
+	Craft brewer of Java and Android bytecode at Square.
+
+![](http://i.imgur.com/o0fYwMg.png)
+
+Work:
+
+	Square, Inc.
+	Android Engineer, 2012 - present
+
+	Champion International Moving, Ltd.
+	Java Developer, 2009 - 2012							---
+
+![](http://i.imgur.com/a94WUV6.jpg)
+
+Places:
+
+	Currently
+	San Francisco, CA
+
+	Previously
+	Pittsburgh, PA
+
+![](http://i.imgur.com/yVsfEvt.png)
+
+Contributing to the Android community：
+
+- _Android Study Group,Check out_ :  [AndroidStudyGroup](https://github.com/AndroidStudyGroup).
+- _TODO: [Talk Openly, Develop Openly](https://github.com/todogroup)_  . Check the Website [[http://todogroup.org]](http://todogroup.org).
+- _grpc: [A high performance, open source, general-purpose RPC framework](https://github.com/grpc)_  . Check the Website [[http://www.grpc.io]](http://www.grpc.io).
+- _ReactiveX : [Reactive Extensions for Async Programming](https://github.com/ReactiveX)_ . Check the Website [[http://reactivex.io]](http://reactivex.io).
+- _Robolectric : [Android unit testing framework](https://github.com/robolectric)_ . Check the Website [[https://github.com/robolectric]](https://github.com/robolectric).
+- _Square : [Working For Square](https://github.com/square)_ . Check the Website [[http://square.github.io]](http://square.github.io).
+
+![](http://i.imgur.com/wYkSCwT.png)
+
+
+
+
+Material
+======================
+Library | Describe | Demo | Usage
+--- | --- | ---
+[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |   <img src="http://nineoldandroids.com/screens.png" width="100%"> | 
+		ValueAnimator colorAnim = ObjectAnimator.ofInt(this, "backgroundColor", /*Red*/0xFFFF8080, /*Blue*/0xFF8080FF);
+		colorAnim.setDuration(3000);
+		colorAnim.setEvaluator(new ArgbEvaluator());
+		colorAnim.setRepeatCount(ValueAnimator.INFINITE);
+		colorAnim.setRepeatMode(ValueAnimator.REVERSE);
+		colorAnim.start();
+
+
+[RxBinding](https://github.com/JakeWharton/RxBinding) | RxJava binding APIs for Android's UI widgets |   <img src="http://nineoldandroids.com/screens.png" width="100%">
+
+[butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android |   <img src="https://github.com/JakeWharton/butterknife/raw/master/website/static/logo.png" width="60%">
+
+
+
+	![](https://img.shields.io/badge/The%20Day4-End%20!-ED1C24.svg?style=flat)
+
+
+
+
+
 
 ----------------
 <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> <img src="http://i.imgur.com/DJgzbkd.gif" width="32%">  <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> 
