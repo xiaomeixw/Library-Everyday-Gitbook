@@ -347,7 +347,7 @@ Library | Describe | Demo
 [SwipeToDismissNOA](https://github.com/JakeWharton/SwipeToDismissNOA) | Backport of Roman Nurik's "Swipe-to-dismiss" sample code using NineOldAndroids to work on all API levels |   <img src="http://i.imgur.com/mXjituH.png" width="80%">
 [timber](https://github.com/JakeWharton/timber) | A logger with a small, extensible API which provides utility on top of Android's normal Log class |   <img src="http://i.imgur.com/VXsfgMp.png" width="50%">
 [hugo](https://github.com/JakeWharton/hugo) | Annotation-triggered method call logging for your debug builds |   <img src="http://i.imgur.com/QAmRpc8.png" width="50%">
-
+[DiskLruCache](https://github.com/JakeWharton/DiskLruCache) | Java implementation of a Disk-based LRU cache which specifically targets Android compatibility |   <img src="http://i.imgur.com/QvDlNc1.png" width="80%">
 
 ###At Last
 
