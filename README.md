@@ -338,34 +338,9 @@ Material
 ======================
 Library | Describe | Demo
 --- | --- | ---
-[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |  ValueAnimator colorAnim = ObjectAnimator.ofInt(this, "backgroundColor", /*Red*/0xFFFF8080, /*Blue*/0xFF8080FF);
-	colorAnim.setDuration(3000);
-	colorAnim.setEvaluator(new ArgbEvaluator());
-	colorAnim.setRepeatCount(ValueAnimator.INFINITE);
-	colorAnim.setRepeatMode(ValueAnimator.REVERSE);
-	colorAnim.start();
+[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |   <img src="http://nineoldandroids.com/screens.png" width="100%">
 [RxBinding](https://github.com/JakeWharton/RxBinding) | RxJava binding APIs for Android's UI widgets |   <img src="http://nineoldandroids.com/screens.png" width="100%">
-
-	ValueAnimator colorAnim = ObjectAnimator.ofInt(this, "backgroundColor", /*Red*/0xFFFF8080, /*Blue*/0xFF8080FF);
-	colorAnim.setDuration(3000);
-	colorAnim.setEvaluator(new ArgbEvaluator());
-	colorAnim.setRepeatCount(ValueAnimator.INFINITE);
-	colorAnim.setRepeatMode(ValueAnimator.REVERSE);
-	colorAnim.start();
-
-
-Library | Describe | Demo
---- | --- | ---
-[RxBinding](https://github.com/JakeWharton/RxBinding) | RxJava binding APIs for Android's UI widgets |   <img src="http://nineoldandroids.com/screens.png" width="100%">
-
-[butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android |   <img src="https://github.com/JakeWharton/butterknife/raw/master/website/static/logo.png" width="60%">
-
-
-Material
-======================
-Name | License | Demo
---- | --- | ---
-[MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/art/MaterialDesignLibrary.png" width="100%"> <img src="/art/MaterialDesignLibrary2.png" width="49%"> <img src="/art/MaterialDesignLibrary3.png" width="49%"> 
+[butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android |   <img src="https://github.com/JakeWharton/butterknife/raw/master/website/static/logo.png" width="50%">
 
 
 ![](https://img.shields.io/badge/The%20Day4-End%20!-ED1C24.svg?style=flat)
