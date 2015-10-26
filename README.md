@@ -274,6 +274,12 @@ Android Lollipop Palette is now easy to use with Picasso. [picasso&Android L的�
 
 
 ## Day4 
+----------------
+<img src="http://i.imgur.com/ww8P36t.jpg" width="32%"> <img src="http://i.imgur.com/tvo7qui.png" width="28%">  <img src="http://i.imgur.com/TzOqpsZ.jpg" width="32%"> 
+
+
+
+## Day4 
 > ![](https://img.shields.io/badge/AndroidEveryday-Day4-green.svg?style=flat) [![library](https://img.shields.io/badge/Special-Cool-ED1C24.svg?style=flat)](https://github.com/JakeWharton)  [![library](https://img.shields.io/badge/JakeWharton-Square-ff69b4.svg?style=flat)](https://github.com/JakeWharton)
 > 
 > ***Weekend Special：A man who name is JakeWharton！***
@@ -331,19 +337,57 @@ Contributing to the Android community：
 
 ![](http://i.imgur.com/wYkSCwT.png)
 
+![](http://i.imgur.com/NqMzIdh.png)
 
+![](http://i.imgur.com/Ao7iP3U.png)
 
+![](http://i.imgur.com/auQAxU6.png)
 
-Material
+![]()
+
+![]()
+
+###Open Source
 ======================
 Library | Describe | Demo
 --- | --- | ---
-[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |   <img src="http://nineoldandroids.com/screens.png" width="100%">
-[RxBinding](https://github.com/JakeWharton/RxBinding) | RxJava binding APIs for Android's UI widgets |   <img src="http://nineoldandroids.com/screens.png" width="100%">
-[butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android |   <img src="https://github.com/JakeWharton/butterknife/raw/master/website/static/logo.png" width="50%">
+[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |   <img src="http://i.imgur.com/cr1rogh.png" width="80%">
+[butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android |   <img src="http://i.imgur.com/q0zv62k.png" width="80%">
+[kotterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android WITH Kotter |   <img src="http://i.imgur.com/NqMzIdh.png" width="80%">
+[ActionBarSherlock](https://github.com/JakeWharton/kotterknife) | [DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme |   <img src="https://camo.githubusercontent.com/b21aae46566b05d5adbb1fa71b88708bc659e120/687474703a2f2f616374696f6e626172736865726c6f636b2e636f6d2f7374617469632f666561747572652e706e67" width="80%">
+[ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) |Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock |   <img src="https://camo.githubusercontent.com/240ee2f3ebda5f20f73a5750c192a28743227816/68747470733a2f2f7261772e6769746875622e636f6d2f4a616b6557686172746f6e2f416e64726f69642d566965775061676572496e64696361746f722f6d61737465722f73616d706c652f73637265656e732e706e67" width="80%">
+[salvage](https://github.com/JakeWharton/salvage) | Generic view recycler and ViewPager PagerAdapter implementation |   <img src="http://i.imgur.com/Ao7iP3U.png" width="80%">
+[ProcessPhoenix](https://github.com/JakeWharton/ProcessPhoenix) | Process Phoenix facilitates restarting your application process |   <img src="http://i.imgur.com/auQAxU6.png" width="80%">
+[scalpel](https://github.com/JakeWharton/scalpel) | A surgical debugging tool to uncover the layers under your app |   <img src="https://github.com/JakeWharton/scalpel/raw/master/images/sample.gif" width="50%">
+[TronWallpaper](https://github.com/JakeWharton/TronWallpaper) | An Android live wallpaper which races lightcycles around your icons against Master Control |   <img src="http://i.imgur.com/bMbEPO4.png" width="80%">
+[SwipeToDismissNOA](https://github.com/JakeWharton/SwipeToDismissNOA) | Backport of Roman Nurik's "Swipe-to-dismiss" sample code using NineOldAndroids to work on all API levels |   <img src="http://i.imgur.com/mXjituH.png" width="80%">
+[timber](https://github.com/JakeWharton/timber) | A logger with a small, extensible API which provides utility on top of Android's normal Log class |   <img src="http://i.imgur.com/VXsfgMp.png" width="50%">
+[hugo](https://github.com/JakeWharton/hugo) | Annotation-triggered method call logging for your debug builds |   <img src="http://i.imgur.com/QAmRpc8.png" width="50%">
+
+
+###At Last
+
+![](http://i.imgur.com/tTKqMkY.jpg)
+
+More public contribution to Android  see [Square]{https://github.com/square}
 
 
 ![](https://img.shields.io/badge/The%20Day4-End%20!-ED1C24.svg?style=flat)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
