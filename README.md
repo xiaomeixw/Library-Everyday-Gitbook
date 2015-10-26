@@ -335,8 +335,8 @@ Contributing to the Android community：
 ======================
 Library | Describe | Usage
 --- | --- | ---
-[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |   <img src="http://i.imgur.com/cr1rogh.png" width="80%">
-[butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android |   <img src="http://i.imgur.com/q0zv62k.png" width="80%">
+[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |   <img src="http://nineoldandroids.com/screens.png" width="80%"><img src="http://i.imgur.com/cr1rogh.png" width="80%">  
+[butterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android |   <img src="https://github.com/JakeWharton/butterknife/raw/master/website/static/logo.png" width="80%"><img src="http://i.imgur.com/q0zv62k.png" width="80%">
 [kotterknife](https://github.com/JakeWharton/butterknife) | View "injection" library for Android WITH Kotter |   <img src="http://i.imgur.com/NqMzIdh.png" width="80%">
 [ActionBarSherlock](https://github.com/JakeWharton/kotterknife) | [DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme |   <img src="https://camo.githubusercontent.com/b21aae46566b05d5adbb1fa71b88708bc659e120/687474703a2f2f616374696f6e626172736865726c6f636b2e636f6d2f7374617469632f666561747572652e706e67" width="80%">
 [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) |Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock |   <img src="https://camo.githubusercontent.com/240ee2f3ebda5f20f73a5750c192a28743227816/68747470733a2f2f7261772e6769746875622e636f6d2f4a616b6557686172746f6e2f416e64726f69642d566965775061676572496e64696361746f722f6d61737465722f73616d706c652f73637265656e732e706e67" width="80%">
