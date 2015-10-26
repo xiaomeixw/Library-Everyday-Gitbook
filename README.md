@@ -335,17 +335,6 @@ Contributing to the Android community：
 - _Robolectric : [Android unit testing framework](https://github.com/robolectric)_ . Check the Website [[https://github.com/robolectric]](https://github.com/robolectric).
 - _Square : [Working For Square](https://github.com/square)_ . Check the Website [[http://square.github.io]](http://square.github.io).
 
-![](http://i.imgur.com/wYkSCwT.png)
-
-![](http://i.imgur.com/NqMzIdh.png)
-
-![](http://i.imgur.com/Ao7iP3U.png)
-
-![](http://i.imgur.com/auQAxU6.png)
-
-![]()
-
-![]()
 
 ###Open Source
 ======================
@@ -369,7 +358,7 @@ Library | Describe | Demo
 
 ![](http://i.imgur.com/tTKqMkY.jpg)
 
-More public contribution to Android  see [Square]{https://github.com/square}
+More public contribution to Android  see [Square](https://github.com/square)
 
 
 ![](https://img.shields.io/badge/The%20Day4-End%20!-ED1C24.svg?style=flat)
