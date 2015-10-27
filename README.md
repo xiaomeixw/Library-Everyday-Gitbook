@@ -150,7 +150,13 @@ sample android project to show how to refactor legacy code. [Twitter工程师Tra
 
 - _[Custom view- Part 1 & Part 2](https://medium.com/@shemag8/custom-view-part-1-9a9c4ae80845#.ujyzbi2gd) --- (From Author  [shem8](https://github.com/shem8) blog [https://shem8.wordpress.com](https://shem8.wordpress.com/)) --- [Source in [Github](https://github.com/shem8/customviewpager)]_ 
 
-	<img src="http://i.imgur.com/29eo0FJ.png" width="90%">
+	Until couple of months ago I’ve been a bit afraid writing custom views. I thought it’s too complicated and had a lot of overhead with handling all layouting and interactions, I felt there is not enough documentation out there, not mention the edge cases and performance. I had my default Android view component in my toolbox and thought that everything I needed can be composed from those.
+
+	The last part is true for most cases. Most of Android apps can be built only with the basic layouts and views out there, so why do we still need to build custom views sometimes?
+
+	Chinese Translation Address : waitting for someone to translate it.
+
+	<img src="http://i.imgur.com/BEsT4ib.gif" width="57%">
 
 
 #### website 	
