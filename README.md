@@ -72,7 +72,7 @@ SwipeBack for Android Activities to do pretty the same as the android "back-butt
     ![](https://camo.githubusercontent.com/a8ca00fe3f9e4aa65d902ad873c3f7ef77a2b418/687474703a2f2f696d672e796f75747562652e636f6d2f76692f54366d62675f77716c6b632f302e6a7067)
 
 - _[SwipeBack](https://github.com/liuguangqiang/SwipeBack) --- (From [liuguangqiang](https://github.com/liuguangqiang)) : 
-SwipeBack is an android library that can finish a activity by using gesture. [下滑关闭Activity]._
+SwipeBack is an android library that can finish a activity by using gesture. [右滑关闭Activity]._
 
 	<img src="https://github.com/liuguangqiang/SwipeBack/raw/master/Images/swipeback_demo.gif" width="50%">
 
@@ -97,7 +97,7 @@ Swipe back to finish the activity with Parallax effect. [带视差滑动布局].
 2.Logic：
 
 - _[android-job](https://github.com/evernote/android-job) --- (From [evernote](https://github.com/evernote) & Tag  is [AsyncTask](https://github.com/evernote/android-job)) : 
-Android library to handle jobs in the background,Evernote 's Library would never disappointed you. [后台执行Job的线程调度]._
+Android library to handle jobs in the background,Evernote 's Library would never disappointed you. [后台执行Job的线程调度,Evernote出品,必属精品]._
 
 	<img src="http://i.imgur.com/8DiprEJ.png" width="90%"> 
 
@@ -131,7 +131,6 @@ Android library to handle jobs in the background,Evernote 's Library would never
 sample android project to show how to refactor legacy code. [Twitter工程师Trallat的MVP进化之旅]._
 
 	<img src="http://i.imgur.com/tNfivZ8.png" width="90%">
-
 	<img src="http://i.imgur.com/KxlWvIk.png" width="90%">
 
 
@@ -153,7 +152,7 @@ sample android project to show how to refactor legacy code. [Twitter工程师Tra
 
 - _[https://dribbble.com](https://dribbble.com) --- (Build By [Dan Cederholm and Rich Thornett ,2009](https://en.wikipedia.org/wiki/Dribbble)) :Dribbble is an online community for showcasing user-made artwork. It functions as a self-promotion and networking platform for graphic design, web design, illustration, photography, and other creative areas. [设计喵群体聚集地]._
 
-	<img src="http://i.imgur.com/kgUVneZ.png" width="90%">
+	<img src="http://i.imgur.com/kgUVneZ.png" width="80%">
 
 	![](https://img.shields.io/badge/The%20Day6-End%20!-ED1C24.svg?style=flat)
 
@@ -181,12 +180,12 @@ An interactive indicator to navigate between the different pages of a ViewPager 
 - _[AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator) --- (From [LyndonChin](https://github.com/LyndonChin)) : 
 A rubber indicator for ViewPager. [View滑动指示器]._
 
-	<img src="https://camo.githubusercontent.com/2ea6152b06aa5f9ca21ab7ff0a83830f73f48fbe/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3330333233342f73637265656e73686f74732f323039303830332f70616765696e64696361746f722e676966" width="80%">
+	<img src="https://camo.githubusercontent.com/2ea6152b06aa5f9ca21ab7ff0a83830f73f48fbe/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3330333233342f73637265656e73686f74732f323039303830332f70616765696e64696361746f722e676966" width="70%">
 
 - _[rubber-loader](https://github.com/greenfrvr/rubber-loader) --- (From [greenfrvr](https://github.com/greenfrvr)) : 
 Android indeterminate loader widget with rubber shape and color transitions. [loading时的橡胶动画效果]._
 
-	<img src="http://i.imgur.com/9ISSPVp.gif" width="80%">
+	<img src="http://i.imgur.com/9ISSPVp.gif" width="70%">
 
 - _[hashtag-view](https://github.com/greenfrvr/hashtag-view) --- (From [greenfrvr](https://github.com/greenfrvr)) : 
 Android fully customizable widget for representing data like hashtags collection and similiar. [自定义的标签View]._
