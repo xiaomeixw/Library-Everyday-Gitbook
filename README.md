@@ -148,6 +148,11 @@ sample android project to show how to refactor legacy code. [Twitter工程师Tra
 	![](http://i.imgur.com/IAcPagy.png)
 
 
+- _[Custom view- Part 1 & Part 2](https://medium.com/@shemag8/custom-view-part-1-9a9c4ae80845#.ujyzbi2gd) --- (From Author  [shem8](https://github.com/shem8) blog [https://shem8.wordpress.com](https://shem8.wordpress.com/)) --- [Source in [Github](https://github.com/shem8/customviewpager)]_ 
+
+	<img src="http://i.imgur.com/29eo0FJ.png" width="90%">
+
+
 #### website 	
 
 - _[https://dribbble.com](https://dribbble.com) --- (Build By [Dan Cederholm and Rich Thornett ,2009](https://en.wikipedia.org/wiki/Dribbble)) :Dribbble is an online community for showcasing user-made artwork. It functions as a self-promotion and networking platform for graphic design, web design, illustration, photography, and other creative areas. [设计喵群体聚集地]._
