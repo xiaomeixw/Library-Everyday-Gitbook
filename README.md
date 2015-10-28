@@ -55,7 +55,7 @@ FAImageView is a Frame Animation ImageView for Android. [自定义帧动画View]
 - _[CircleImageView](https://github.com/hdodenhof/CircleImageView) --- (From [hdodenhof](https://github.com/hdodenhof)) : 
 A circular ImageView for Android. [圆形图片]._
 
-	<img src="https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="45%"> 
+	<img src="https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="35%"> 
 
 
 
@@ -63,32 +63,32 @@ A circular ImageView for Android. [圆形图片]._
 A fast ImageView that supports rounded corners, ovals, and circles. [各种自定义形状图片]._
 
 
-	<img src="https://camo.githubusercontent.com/ed1e075be6ed97fa9091d3702e9b96d3e85b7a35/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="45%"><img src="https://camo.githubusercontent.com/d4970a90842c50a708f94b7bd996657c41ab62fb/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742d6f76616c2e706e67" width="45%">
+	<img src="https://camo.githubusercontent.com/ed1e075be6ed97fa9091d3702e9b96d3e85b7a35/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="35%"><img src="https://camo.githubusercontent.com/d4970a90842c50a708f94b7bd996657c41ab62fb/68747470733a2f2f7261772e6769746875622e636f6d2f6d616b6572616d656e2f526f756e646564496d616765566965772f6d61737465722f73637265656e73686f742d6f76616c2e706e67" width="35%">
 
 - _[android-crop](https://github.com/jdamcd/android-crop) --- (From [jdamcd](https://github.com/jdamcd)) : 
 Android library project for cropping images. [裁剪图片]._
 
-	<img src="https://github.com/jdamcd/android-crop/raw/master/screenshot.png" width="45%"> 
+	<img src="https://github.com/jdamcd/android-crop/raw/master/screenshot.png" width="35%"> 
 
 - _[cropper](https://github.com/edmodo/cropper) --- (From [edmodo](https://github.com/edmodo)) : 
 Android widget for cropping and rotating an image. [裁剪图片]._
 
-	<img src="https://camo.githubusercontent.com/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067" width="45%"> 
+	<img src="https://camo.githubusercontent.com/e4fde77bf41d4a60b234b4e268e5cfa8c17d9b6f/687474703a2f2f692e696d6775722e636f6d2f334668735467666c2e6a7067" width="35%"> 
 
 - _[SimpleCropView](https://github.com/IsseiAoki/SimpleCropView) --- (From [IsseiAoki](https://github.com/IsseiAoki)) : 
 A simple image cropping library for Android. [裁剪图片]._
 
-	<img src="https://camo.githubusercontent.com/7ef872746a0181356ea0b44d94b7bd939f28c5ae/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f4973736569416f6b692f53696d706c6543726f70566965772f696d616765732f6769662f64656d6f5f62617369635f75736167652e676966" width="45%"> 
+	<img src="https://camo.githubusercontent.com/7ef872746a0181356ea0b44d94b7bd939f28c5ae/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f4973736569416f6b692f53696d706c6543726f70566965772f696d616765732f6769662f64656d6f5f62617369635f75736167652e676966" width="35%"> 
 
 - _[CropImageView](https://github.com/cesards/CropImageView) --- (From [cesards](https://github.com/cesards)) : 
 Widget allows you crop from whatever side in an ImageView. Currently Android only supports centerCrop type of cropping. [各种不同的角度中间centerCrop截取图片]._
 
-	<img src="https://github.com/cesards/CropImageView/raw/master/art/cropping.png" width="45%"> 
+	<img src="https://github.com/cesards/CropImageView/raw/master/art/cropping.png" width="35%"> 
 
 - _[Masaccio](https://github.com/Subito-it/Masaccio) --- (From [Subito-it](https://github.com/Subito-it)) : 
 An Android library providing a useful widget class which automatically detects the presence of faces in the source image and crop it accordingly so to achieve the best visual result. [自动识别图片中人脸并截取出来]._
 
-	<img src="https://github.com/Subito-it/Masaccio/raw/master/masaccio_demo.gif" width="45%"> 
+	<img src="https://github.com/Subito-it/Masaccio/raw/master/masaccio_demo.gif" width="35%"> 
 
 
 2.Logic：
@@ -156,7 +156,7 @@ Android MVVM lightweight library based on Android Data Binding. [基于google的
 - _[GEM](https://github.com/Substance-Project/GEM) --- (From [Substance-Project](https://github.com/Substance-Project) A Organization from United States) : 
 A music player for Android, in stunning Material Design. [带Material Design设计风格的音乐App-Demo]._
 
-	<img src="https://camo.githubusercontent.com/53118bf8ba812c1776c998ba272d4eff47bf0143/687474703a2f2f7375627374616e636570726f6a6563742e6e65742f696d616765732f67656d2f67656d5f616c62756d5f766965775f736d616c6c2e706e67" width="45%">
+	<img src="https://camo.githubusercontent.com/53118bf8ba812c1776c998ba272d4eff47bf0143/687474703a2f2f7375627374616e636570726f6a6563742e6e65742f696d616765732f67656d2f67656d5f616c62756d5f766965775f736d616c6c2e706e67" width="35%">
 
 	Check the Source in [Github](https://github.com/Substance-Project/GEM).Want to know more about the App-Demo see [http://substanceproject.net](http://substanceproject.net/)
 
@@ -164,9 +164,9 @@ A music player for Android, in stunning Material Design. [带Material Design设�
 - _[StickerCamera](https://github.com/Skykai521/StickerCamera) --- (From [Skykai521](https://github.com/Skykai521) A Developer from China) : 
 This is an Android application with camera,picture cropping,collage sticking and tagging. [图片裁剪图片标签App-Demo]._
 
-	<img src="https://github.com/Skykai521/StickerCamera/raw/master/screenshot/Screenshot_01.gif" width="45%"><img src="https://github.com/Skykai521/StickerCamera/raw/master/screenshot/Screenshot_2015-07-19-11-23-22.png" width="45%"> 
+	<img src="https://github.com/Skykai521/StickerCamera/raw/master/screenshot/Screenshot_01.gif" width="35%"><img src="https://github.com/Skykai521/StickerCamera/raw/master/screenshot/Screenshot_2015-07-19-11-23-22.png" width="35%"> 
 
-	<img src="https://github.com/Skykai521/StickerCamera/raw/master/screenshot/Screenshot_2015-07-19-11-21-39.png" width="45%"><img src="https://github.com/Skykai521/StickerCamera/raw/master/screenshot/Screenshot_2015-07-19-11-23-04.png" width="45%">
+	<img src="https://github.com/Skykai521/StickerCamera/raw/master/screenshot/Screenshot_2015-07-19-11-21-39.png" width="35%"><img src="https://github.com/Skykai521/StickerCamera/raw/master/screenshot/Screenshot_2015-07-19-11-23-04.png" width="35%">
 
 	Check the Source in [Github](https://github.com/Skykai521/StickerCamera).
 
