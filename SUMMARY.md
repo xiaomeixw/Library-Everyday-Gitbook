@@ -6,6 +6,6 @@
    * [Day02(Fri,Oct.23th,2015)](day02.md)
    * [Day03(Sat,Oct.24,2015)](day03.md)
    * [Day04(Sun,Oct.25,2015)](day04.md)
-   * [Day05(Mon,Oct,26,2015)](day05.md)
+   * [Day05(Mon,Oct.26,2015)](day05.md)
    * Day06(Tue,Oct.27,2015)
 
