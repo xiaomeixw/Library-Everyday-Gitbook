@@ -51,32 +51,32 @@ Contains the following content：
 - _[FoldableLayout](https://github.com/worldline/FoldableLayout) --- (From [worldline](https://github.com/worldline)) : 
 An Android demo of a foldable layout implementation,The author say: This code is a demo and not a library. [一个折叠效果]._
 
-	<img src="https://raw.githubusercontent.com/worldline/FoldableLayout/dev/screenshots/demo.gif" width="40%">
+	<img src="https://raw.githubusercontent.com/worldline/FoldableLayout/dev/screenshots/demo.gif" width="35%">
 
 - _[FoldableLayout](https://github.com/alexvasilkov/FoldableLayout) --- (From [alexvasilkov](https://github.com/alexvasilkov)) : 
 Android widgets to implement folding animation,It was wonderful library. [一个折叠效果,效果很棒]._
 
-	<img src="http://i.imgur.com/CiSnMIa.jpg" width="100%">
+	<img src="http://i.imgur.com/CiSnMIa.jpg" width="90%">
 
 - _[Android-FoldingLayout](https://github.com/elementsinteractive/Android-FoldingLayout) --- (From [elementsinteractive](https://github.com/elementsinteractive)) : 
 A layout to switch over its children using a page folding animation,LIKE Flipboard application.  [一个折叠效果,类似Flipboard的翻页效果]._
 
-	<img src="http://i.imgur.com/EckUyKB.png" width="40%">
+	<img src="http://i.imgur.com/EckUyKB.png" width="35%">
 
 - _[android-FlipView](https://github.com/emilsjolander/android-FlipView) --- (From [emilsjolander](https://github.com/emilsjolander)) : 
 A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application,very smoothly. [一个折叠效果,类似Flipboard的翻页效果,很流畅,API比较丰富]._
 
-	<img src="http://i.imgur.com/tpHRbSe.png" width="40%">
+	<img src="http://i.imgur.com/tpHRbSe.png" width="35%">
 
 - _[FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) --- (From [Yalantis](https://github.com/Yalantis)) : 
 This project aims to provide a working page flip implementation for usage in ListView. [ListView联系人翻页效果]._
 
-	<img src="https://camo.githubusercontent.com/db312e031e5f5a445b548d35986b0498caa261d3/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313735383239382f39396d696c65732d66696e642d667269656e64732d696e746572666163652d616e696d6174696f6e2e676966" width="40%">
+	<img src="https://camo.githubusercontent.com/db312e031e5f5a445b548d35986b0498caa261d3/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313735383239382f39396d696c65732d66696e642d667269656e64732d696e746572666163652d616e696d6174696f6e2e676966" width="35%">
 
 - _[android-flip](https://github.com/openaphid/android-flip) --- (From [openaphid](https://github.com/openaphid)) : 
 A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android. [一个类似Flipboard翻页效果]._
 
-	<img src="http://openaphid.github.io/images/flipview-horizontal-demo.gif" width="40%">
+	<img src="http://openaphid.github.io/images/flipview-horizontal-demo.gif" width="35%">
 
 
 2.Logic：
@@ -84,7 +84,7 @@ A component for flip animation on Android, which is similar to the effect in Fli
 - _[Favor](https://github.com/soarcn/Favor) --- (From [soarcn](https://github.com/soarcn) & Tag  is [Caching](https://github.com/soarcn/Favor)) : 
 A easy way to use android sharepreference. [使用注解简单操作sharepreference]._
 
-	<img src="http://i.imgur.com/rgCiW3M.png" width="100%">
+	<img src="http://i.imgur.com/rgCiW3M.png" width="90%">
 
 		//1 Define a interface.
 		@AllFavor
@@ -102,7 +102,7 @@ A easy way to use android sharepreference. [使用注解简单操作shareprefere
 - _[AndroidChannel](https://github.com/skyfe79/AndroidChannel) --- (From [skyfe79](https://github.com/skyfe79) & Tag  is [AsyncTask](https://github.com/skyfe79/AndroidChannel)) : 
 AndroidChannel is helper library for thread communication between mainthread and workerthread. [异步调度,主线程和工作线程通信]._
 
-	<img src="http://i.imgur.com/jHTGpJj.png" width="100%">
+	<img src="http://i.imgur.com/jHTGpJj.png" width="90%">
 
 		channel = new AndroidChannel(new AndroidChannel.UiCallback() {
 		    @Override
@@ -186,7 +186,7 @@ a carefully crafted Android framework:DI, ORM, JSON.... [封装一套可复用�
 
 #### website 	
 
-- _[http://droidcon.de/](http://gank.io/) --- (started in 2008 in Berlin) : Droidcon is the franchise name for a series of commercial conferences in Europe, focused on software development for Google's Android smartphone framework. The Droidcon conferences are the largest Android developer conferences held outside the USA. [Android技术交流公开活动组织]._
+- _[http://droidcon.de/](http://gank.io/) --- (started in 2008 in Berlin) : Droidcon is the franchise name for a series of commercial conferences in Europe, focused on software development for Google's Android smartphone framework. The Droidcon conferences are the largest Android developer conferences held outside the USA. [欧洲最大的Android技术交流公开活动组织]._
 
 	![](http://i.imgur.com/KwZofxt.png)
 
