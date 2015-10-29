@@ -9,4 +9,5 @@
    * [Day05(Mon,Oct.26,2015)](day05.md)
    * [Day06(Tue,Oct.27,2015)](day06.md)
    * [Day07(Wed,Oct.28,2015)](day07.md)
+   * Day08(Thur,Oct.29,2015)
 
