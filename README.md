@@ -36,6 +36,8 @@ Contains the following content：
 * [2015/10/27 day6](#day6)
 * [2015/10/28 day7](#day7)
 * [2015/10/29 day8](#day8)
+* waiting for upload 
+* waiting for upload
 
 ----------------
 <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> <img src="http://i.imgur.com/DJgzbkd.gif" width="32%">  <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> 
