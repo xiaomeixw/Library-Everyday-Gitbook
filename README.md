@@ -38,6 +38,7 @@ Contains the following content：
 * [2015/10/29 day8](#day8)
 * [2015/10/30 day9](#day9) 
 * [2015/10/31 day10](#day10)
+* [2015/11/01-02 day12&day13](https://github.com/xiaomeixw/Library-Everyday-Gitbook/blob/master/day12%26day13.md)
 
 ----------------
 <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> <img src="http://i.imgur.com/DJgzbkd.gif" width="32%">  <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> 
