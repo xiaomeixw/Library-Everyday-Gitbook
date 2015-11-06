@@ -12,4 +12,5 @@
    * [Day08(Thur,Oct.29,2015)](day08.md)
 * Weekly#02
    * [Day12&Day13(Mon&Tue,Nov.01&02,2015)](day12&day13.md)
+   * Day13(Fri,Nov.06,2015)
 
