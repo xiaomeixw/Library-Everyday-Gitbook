@@ -98,34 +98,23 @@ A Library with ioc & orm & http，there are four modules ：FinalAcitivity,Final
 - _[9GAG](https://github.com/stormzhang/9GAG) --- (From [stormzhang](https://github.com/stormzhang) A Developer from China) : 
 Android unofficial REST Client of 9GAG. [使用众多知名library实现的app-demo]._
 
-	<img src="https://camo.githubusercontent.com/14097fc0e119ead1fd4777e9f3c317319dd15380/687474703a2f2f7777342e73696e61696d672e636e2f6d77313032342f6166363363306533677731656738616866346231796a32316b7730737a7163382e6a7067" width="100%">
+	<img src="https://camo.githubusercontent.com/14097fc0e119ead1fd4777e9f3c317319dd15380/687474703a2f2f7777342e73696e61696d672e636e2f6d77313032342f6166363363306533677731656738616866346231796a32316b7730737a7163382e6a7067" width="90%">
 
 	Check the Source in [Github](https://github.com/stormzhang/9GAG).Want to know more about the App-Demo download [APK](https://github.com/stormzhang/9GAG/releases/download/v1.0.0/9GAG_v1.0.0.apk)
 
-	## the APP-Demo With these Open source projects
+	#### the app-demo with these open source projects
 
 	* [Volley](https://android.googlesource.com/platform/frameworks/volley)
-	
 	* [ButterKnife](http://jakewharton.github.io/butterknife/)
-	
 	* [UniversalImageLoader](https://github.com/nostra13/Android-Universal-Image-Loader)
-	
 	* [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)
-	
 	* [NineOldAndroid](http://nineoldandroids.com/)
-	
 	* [PhotoView](https://github.com/chrisbanes/PhotoView)
-	
 	* [FoldingLayout](https://github.com/tibi1712/Folding-Android)
-	
 	* [ProgressWheel](https://github.com/Todd-Davies/ProgressWheel)
-	
 	* [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)
-
 	* [BlurEffectForAndroidDesign](https://github.com/PomepuyN/BlurEffectForAndroidDesign)
-	
 	* [Shimmer-android](https://github.com/RomainPiel/Shimmer-android)
-	
 	* [Titanic](https://github.com/RomainPiel/Titanic)
 
 #### article ####
@@ -134,8 +123,9 @@ Android unofficial REST Client of 9GAG. [使用众多知名library实现的app-d
 
 	<p>
 	<img src="http://i.imgur.com/9ADH9hP.png" width="200px" height="200px" align="left" hspace="15px" />
-	ReactiveX is an API that focuses on asynchronous composition and manipulation of observable streams of data or events by using a combination of the Observer pattern, Iterator pattern, and features of Functional Programming. Handling real-time data is a common occurrence, and having an efficient, clean, and extensible approach to handling these scenarios is important. Using Observables and operators to manipulate them, ReactiveX offers a composable and flexible API to create and act on streams of data while simplifying the normal concerns of asynchronous programming like thread creation and concurrency issues.[Translation：开始使用RxJava]
+	What is ReactiveX?ReactiveX is an API that focuses on asynchronous composition and manipulation of observable streams of data or events by using a combination of the Observer pattern, Iterator pattern, and features of Functional Programming. Handling real-time data is a common occurrence, and having an efficient, clean, and extensible approach to handling these scenarios is important. Using Observables and operators to manipulate them, ReactiveX offers a composable and flexible API to create and act on streams of data while simplifying the normal concerns of asynchronous programming like thread creation and concurrency issues.[Translation：开始使用RxJava]
 	</p>
+
 
 	Chinese Translation Address : Waiting for someone Translation it.
 
@@ -143,7 +133,6 @@ Android unofficial REST Client of 9GAG. [使用众多知名library实现的app-d
 
 
 	![](https://img.shields.io/badge/The%20Day13-End%20!-ED1C24.svg?style=flat)
-
 
 
 
