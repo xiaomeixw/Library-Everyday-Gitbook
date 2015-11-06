@@ -1,8 +1,8 @@
 ----------------
 <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> <img src="http://i.imgur.com/DJgzbkd.gif" width="32%">  <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> 
 
-## Day12&Day13
-> ![](https://img.shields.io/badge/AndroidEveryday-Day12%20&%20Day13-green.svg?style=flat)   
+## Day12
+> ![](https://img.shields.io/badge/AndroidEveryday-Day12-green.svg?style=flat)   
 > ***Time : November 1th&2th,2015*** / ***Author : [xiaomeixw](https://github.com/xiaomeixw)***
 
 #### library ####
@@ -154,7 +154,7 @@ PowerMock is a Java framework that allows you to unit test code normally regarde
 
 
 
-	![](https://img.shields.io/badge/The%20Day12%20&%20Day13-End%20!-ED1C24.svg?style=flat)
+	![](https://img.shields.io/badge/The%20Day12-End%20!-ED1C24.svg?style=flat)
 
 
 
