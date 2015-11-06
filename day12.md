@@ -3,7 +3,7 @@
 
 ## Day12
 > ![](https://img.shields.io/badge/AndroidEveryday-Day12-green.svg?style=flat)   
-> ***Time : November 1th&2th,2015*** / ***Author : [xiaomeixw](https://github.com/xiaomeixw)***
+> ***Time : November 2th,2015*** / ***Author : [xiaomeixw](https://github.com/xiaomeixw)***
 
 #### library ####
 
