@@ -13,5 +13,5 @@
 * Weekly#02
    * [Day12(Mon,Nov.02,2015)](day12.md)
    * [Day13(Fri,Nov.06,2015)](day13.md)
-   * Day14(Tus,Nov.10,2015)
+   * [Day14(Tus,Nov.10,2015)](day14.md)
 
