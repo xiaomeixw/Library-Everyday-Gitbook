@@ -143,14 +143,15 @@ Java Annotation Processor which allows to simplify development. [减少开发的
 - _[Carpaccio](https://github.com/florent37/Carpaccio) --- (From [florent37](https://github.com/florent37)) : 
 Data Mapping & Smarter Views framework for android. [各种View和Data绑定]._
 
-	<p>
-	<img src="https://raw.githubusercontent.com/florent37/Carpaccio/master/screenshot/carpaccio_small.png" width="200px" height="200px" align="left" hspace="15px" />
+	<img src="https://raw.githubusercontent.com/florent37/Carpaccio/master/screenshot/carpaccio_small.png"/>
+	
 	Data Mapping & Smarter Views framework for android.
 
 	With Carpaccio, your views became smarter, instead of calling functions on views, now your views can call functions ! You no longer need to extend a view to set a custom behavior
 
 	Carpaccio also come with a beautiful mapping engine !
-	</p>
+	
+
 
 
 	##ImageViewController
@@ -170,8 +171,7 @@ Data Mapping & Smarter Views framework for android. [各种View和Data绑定]._
 	
 	![url](https://raw.githubusercontent.com/florent37/Carpaccio/master/screenshot/url_small.png)
 	
-	**WORKS WITH ANDROID STUDIO PREVIEW !!!**, don't hesitate to refresh your preview
-	![url](https://raw.githubusercontent.com/florent37/Carpaccio/master/screenshot/refresh.png)
+	**WORKS WITH ANDROID STUDIO PREVIEW !!!**, don't hesitate to refresh your preview.
 	
 	Preview an url image
 	
@@ -222,10 +222,23 @@ Data Mapping & Smarter Views framework for android. [各种View和Data绑定]._
 
 - _[speed-up-your-app](http://blog.udinic.com/2015/09/15/speed-up-your-app) --- (From Author  [udinic](https://github.com/udinic) blog [http://blog.udinic.com/](http://blog.udinic.com/)) --- [No Source]_ 
 
+	<p>
+	<img src="http://i.imgur.com/uZcjj36.png" width="200px" height="200px" align="left" hspace="15px" />
 	A few weeks ago, I gave a talk about Android Performance Optimization, at Droidcon NYC.
+	I invested a lot of time in this presentation, since I wanted to show real examples for performance issues, and how to identify them with the available tools. I had to cut down about a half of my slides because I didn’t have enough time to show everything. In this post, I’ll summarize everything I was talking about, and show examples I didn’t have time to go over..
+	</p>
 
-	I invested a lot of time in this presentation, since I wanted to show real examples for performance issues, and how to identify them with the available tools. I had to cut down about a half of my slides because I didn’t have enough time to show everything. In this post, I’ll summarize everything I was talking about, and show examples I didn’t have time to go over. [Translation：加速你的APP]. 
- 
+
+	My Rules
+	Everytime I approach a performance problem, or looking for performance problems, I follow these rules:
+	
+	- _Always Measure - Optimizing with your eyes is never a good idea. After looking at the same animation for a few times, you’ll start imagining it’s running faster. Numbers don’t lie. Use the tools we’ll go over soon, and measure how your app performs a few times before and after you make your change._
+	
+	- _Use slow devices - If you really want to expose all the weak spots, slower devices will help you more. Newer and stronger devices might not get too excited about performance issues you may have, but not all your users use the latest and greatest._
+	
+	- _Trade-offs - Performance optimization is all about trade-offs. You optimize one thing - it comes on the expense of another. In many cases, that other thing can be your time spent finding and fixing it, but it can also be the quality of your bitmaps or the amount of data you should store in a specific data structure. Prepare yourself to make sacrifices._
+	
+	[加速你的APP]. 
 	Chinese Translation Address : [Thanks To android-tech-frontier](http://www.devtf.cn/?p=1097)
 	
 	<img src="http://i.imgur.com/cyGEUrC.png" width="90%">
@@ -236,8 +249,6 @@ Data Mapping & Smarter Views framework for android. [各种View和Data绑定]._
 
 
 	![](https://img.shields.io/badge/The%20Day14-End%20!-ED1C24.svg?style=flat)
-
-
 
 
 
