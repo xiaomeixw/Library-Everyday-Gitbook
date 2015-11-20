@@ -160,24 +160,9 @@ Android Library to help you with your runtime Permissions. [Android M动态权�
 - _[GankIO](https://github.com/maoruibin/GankIO) --- (From [maoruibin](https://github.com/maoruibin) A Developer from China) : 
 Simple Girls Client Use MVP. [使用MVP架构写的简易版妹纸客户端]._
 
-	<img src="https://github.com/maoruibin/GankIO/raw/master/art/gank_index.png" width="90%">
+	<img src="https://github.com/maoruibin/GankIO/raw/master/art/gank_index.png" width="45%">
 
-	Check the Source in [Github](https://github.com/stormzhang/9GAG).Want to know more about the App-Demo download [APK](https://github.com/stormzhang/9GAG/releases/download/v1.0.0/9GAG_v1.0.0.apk)
-
-	#### the app-demo with these open source projects
-
-	- _RxJava_
-	- _OkHttp_
-	- _Picasso_
-	- _Retrofit_
-	- _Logger_
-
-- _[GankIO](https://github.com/maoruibin/GankIO) --- (From [maoruibin](https://github.com/maoruibin) A Developer from China) : 
-Simple Girls Client Use MVP. [使用MVP架构写的简易版妹纸客户端]._
-
-	<img src="https://github.com/maoruibin/GankIO/raw/master/art/gank_index.png" width="90%">
-
-	Check the Source in [Github](https://github.com/stormzhang/9GAG).Want to know more about the App-Demo download [APK](https://github.com/stormzhang/9GAG/releases/download/v1.0.0/9GAG_v1.0.0.apk)
+	Check the Source in [Github](https://github.com/maoruibin/GankIO).Want to know more about the App-Demo see [Meizhi](https://github.com/drakeet/Meizhi)
 
 	#### the app-demo with these open source projects
 
@@ -186,6 +171,8 @@ Simple Girls Client Use MVP. [使用MVP架构写的简易版妹纸客户端]._
 	- _Picasso_
 	- _Retrofit_
 	- _Logger_
+
+
 
 #### resource ####
 
@@ -215,8 +202,6 @@ Awesome React-Native Study resource. [React-Native学习资料]._
 	<img src="http://i.imgur.com/JWIVc15.gif" width="90%">
 
 	![](https://img.shields.io/badge/The%20Day17-End%20!-ED1C24.svg?style=flat)
-
-
 
 
 
