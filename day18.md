@@ -219,16 +219,16 @@ Use some famous libraries build a video app dmo. [一个开源的视频类app-de
 
 	<img src="http://i.imgur.com/Hkc5dsh.png" width="47%"><img src="http://i.imgur.com/jE8p1p0.png" width="38.5%">
 
-    compile 'com.android.support:appcompat-v7:23.1.1'
-    compile 'com.android.support:design:23.1.1'
-    compile 'com.android.support:cardview-v7:23.1.1'
-    compile 'com.squareup.okhttp:okhttp:2.5.0'
-    compile 'com.github.bumptech.glide:glide:3.6.1'
-    compile 'com.github.bumptech.glide:okhttp-integration:1.3.1@aar'
-    compile 'cn.bingoogolapple:bga-badgeview:1.0.2'
-    compile 'com.github.traex.rippleeffect:library:1.3'
-    compile 'com.soundcloud.android:android-crop:1.0.1@aar'
-    compile 'com.github.dmytrodanylyk.android-process-button:library:1.0.4'
+        compile 'com.android.support:appcompat-v7:23.1.1'
+        compile 'com.android.support:design:23.1.1'
+        compile 'com.android.support:cardview-v7:23.1.1'
+        compile 'com.squareup.okhttp:okhttp:2.5.0'
+        compile 'com.github.bumptech.glide:glide:3.6.1'
+        compile 'com.github.bumptech.glide:okhttp-integration:1.3.1@aar'
+        compile 'cn.bingoogolapple:bga-badgeview:1.0.2'
+        compile 'com.github.traex.rippleeffect:library:1.3'
+        compile 'com.soundcloud.android:android-crop:1.0.1@aar'
+        compile 'com.github.dmytrodanylyk.android-process-button:library:1.0.4'
 
 #### website 	
 
