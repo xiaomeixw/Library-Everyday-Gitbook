@@ -232,13 +232,11 @@ Use some famous libraries build a video app dmo. [一个开源的视频类app-de
 
 #### website 	
 
-- _[https://coding.net](https://coding.net) --- (Build By [daimajia](https://github.com/daimajia)) :A Chinese famous code management website like github [中国的GitHub]._
+- _[https://coding.net](https://coding.net):A Chinese famous code management website like github [中国的GitHub]._
 
 	<img src="http://i.imgur.com/3n5LV7W.jpg" width="90%"> 
 
 	![](https://img.shields.io/badge/The%20Day18-End%20!-ED1C24.svg?style=flat)
-
-
 
 
 
