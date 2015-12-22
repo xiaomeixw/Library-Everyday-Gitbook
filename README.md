@@ -46,6 +46,7 @@ Contains the following content：
 * [2015/11/20 day16](https://github.com/xiaomeixw/Library-Everyday-Gitbook/blob/master/day16.md)
 * [2015/11/21 day17](https://github.com/xiaomeixw/Library-Everyday-Gitbook/blob/master/day17.md)
 * [2015/12/03 day18](https://github.com/xiaomeixw/Library-Everyday-Gitbook/blob/master/day18.md)
+* [2015/12/22 day19](https://github.com/xiaomeixw/Library-Everyday-Gitbook/blob/master/day19.md)
 
 ----------------
 <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> <img src="http://i.imgur.com/DJgzbkd.gif" width="32%">  <img src="http://i.imgur.com/DJgzbkd.gif" width="32%"> 
