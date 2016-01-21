@@ -21,4 +21,5 @@
    * [Day17(Sat,Nov.21,2015)](day17.md)
    * [Day18(Thur,Dec.03,2015)](day18.md)
    * [Day19(Tue,Dec.22,2015)](day19.md)
+* Weekly#03
 
