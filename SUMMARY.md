@@ -23,5 +23,5 @@
    * [Day19(Tue,Dec.22,2015)](day19.md)
 * [Weekly#03](Day21(Mon,Jan.25,2016)
    * [Day20(Thur,Jan.21,2016)](day20.md)
-   * Day21(Mon,Jan.25,2016)
+   * [Day21(Mon,Jan.25,2016)](day21.md)
 
