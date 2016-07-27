@@ -59,6 +59,8 @@ Contains the following content：
 > ***Time : July 27th,2016*** / ***Author : [xiaomeixw](https://github.com/xiaomeixw)***
 
 #### library ####
+1. **RxRecyclerAdapter** Rx based RecyclerView Adapter..  
+[https://github.com/ahmedrizwan/RxRecyclerAdapter](https://github.com/ahmedrizwan/RxRecyclerAdapter)
  
 #### article ####
 
