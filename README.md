@@ -67,9 +67,9 @@ Contains the following content：
  
 ### article ###
 
-[Introducing Android code style guidelines at Buffer](https://overflow.buffer.com/2016/08/18/introducing-android-code-style-guidelines-buffer/)
+1. [Introducing Android code style guidelines at Buffer](https://overflow.buffer.com/2016/08/18/introducing-android-code-style-guidelines-buffer/)
 
-[Rewriting Android Priority JobQueue – Lessons Learned](http://www.birbit.com/rewriting-android-priority-jobqueue-lessons-learned/)
+1. [Rewriting Android Priority JobQueue – Lessons Learned](http://www.birbit.com/rewriting-android-priority-jobqueue-lessons-learned/)
 
 
 ### app-demo ###
