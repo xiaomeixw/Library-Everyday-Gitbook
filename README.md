@@ -56,13 +56,17 @@ Contains the following content：
 
 ## Day22
 > ![](https://img.shields.io/badge/AndroidEveryday-Day22-green.svg?style=flat)   
-> ***Time : July 27th,2016*** / ***Author : [xiaomeixw](https://github.com/xiaomeixw)***
+> ***Time : Aug 22th,2016*** / ***Author : [xiaomeixw](https://github.com/xiaomeixw)***
 
 ### library ###
 1. **ferro** Simple and powerful MVP library for Android..  
 [https://github.com/MaksTuev/ferro](https://github.com/MaksTuev/ferro)
+
+1. **ferro** Simple and powerful MVP library for Android..  
+[https://github.com/MaksTuev/ferro](https://github.com/MaksTuev/ferro)
  
 ### article ###
+
 
 ### app-demo ###
 
