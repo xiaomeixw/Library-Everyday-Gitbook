@@ -62,10 +62,14 @@ Contains the following content：
 1. **ferro** Simple and powerful MVP library for Android..  
 [https://github.com/MaksTuev/ferro](https://github.com/MaksTuev/ferro)
 
-1. **ferro** Simple and powerful MVP library for Android..  
-[https://github.com/MaksTuev/ferro](https://github.com/MaksTuev/ferro)
+1. **android-priority-jobqueue-V2** A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability..  
+[https://github.com/yigit/android-priority-jobqueue](https://github.com/MaksTuev/ferro)
  
 ### article ###
+
+[Introducing Android code style guidelines at Buffer](https://overflow.buffer.com/2016/08/18/introducing-android-code-style-guidelines-buffer/)
+
+[Rewriting Android Priority JobQueue – Lessons Learned](http://www.birbit.com/rewriting-android-priority-jobqueue-lessons-learned/)
 
 
 ### app-demo ###
