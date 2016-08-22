@@ -64,6 +64,8 @@ Contains the following content：
 
 1. **android-priority-jobqueue-V2** A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability..  
 [https://github.com/yigit/android-priority-jobqueue](https://github.com/MaksTuev/ferro)
+
+1. [Android Project Guidelines](https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md)
  
 ### article ###
 
