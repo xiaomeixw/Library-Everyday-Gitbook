@@ -73,10 +73,12 @@ Contains the following content：
 
 1. [Rewriting Android Priority JobQueue – Lessons Learned](http://www.birbit.com/rewriting-android-priority-jobqueue-lessons-learned/)
 
+1. [Task Management](https://medium.com/lifestyle-engineering/task-management-922a54838c62#.uws1t6c1j)
 
-### app-demo ###
+1. [Using ThreadPoolExecutor in Android](https://medium.freecodecamp.com/threadpoolexecutor-in-android-8e9d22330ee3#.8niywzpxz)
 
-### website ####
+
+
 
 
 
